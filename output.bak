@@ -1,0 +1,19 @@
+Action.c(84): Departure City: Los Angeles
+Action.c(85): Cost ticket OUT: 361;78;04/25/2020
+Action.c(86): Cost ticket Return: 631;78;04/26/2020
+Action.c(87): Seating Preference: Window
+Action.c(88): Type of Seat: Business
+Action.c(89): 
+Action.c(84): Departure City: Los Angeles
+Action.c(85): Cost ticket OUT: 313;185;04/27/2020
+Action.c(86): Cost ticket Return: 132;307;04/28/2020
+Action.c(87): Seating Preference: Aisle
+Action.c(88): Type of Seat: Coach
+Action.c(89): 
+Action.c(84): Departure City: Los Angeles
+Action.c(85): Cost ticket OUT: 313;268;04/29/2020
+Action.c(86): Cost ticket Return: 131;420;04/30/2020
+Action.c(87): Seating Preference: Window
+Action.c(88): Type of Seat: Business
+Action.c(89): 
+Vuser Terminated.

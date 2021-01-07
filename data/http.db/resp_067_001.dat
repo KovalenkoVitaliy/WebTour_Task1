@@ -1,0 +1,16 @@
+2b3
+<!--
+User password was incorrect.  Prompt the user to fix password or sign-up...
+--->
+
+<html>
+<title>Web Tours</title>
+<script type="text/javascript" src="http://ie.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=nOn2lxam-6xzYRqTl83ZDpbxyrfHal-j-LMXAGpyGnlaGraLE5AoTD0mDrV1LOkkG-6XxLj0wGET1-A7lre9aA" charset="UTF-8"></script><frameset cols="160,*" border=1 frameborder=1>
+<frame src="nav.pl?username=jojo&password=bobo" name="navbar" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+<frame src="error.pl?error=badPassword" name="info" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+</frameset>
+
+</body>
+</html>
+0
+
